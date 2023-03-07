@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rexoctavian
-- 👀 I’m interested in quantitative and algorithmic trading, machine learning, deep learning and data science.
-- 🌱 I’m currently studying a Masters degree in Computational Finance.
-- 💞️ I’m looking to collaborate on financial projects that involve quantitative or algorithmic trading.
-- 📫 Reach me at josephoefranks@icloud.com
+# 👋  Hi, I’m Joseph (@rexoctavian)
+  👀 I’m interested in quantitative and algorithmic trading, machine learning, deep learning and data science. <br>
+  🌱 I have a Masters degree in Computational Finance and an Undergraduate degree in Economics. <br>
+  💞️ I’m looking to collaborate on financial projects that involve quantitative/algorithmic trading or risk/price modelling. <br>
+  📫 Reach me at josephoefranks@icloud.com <br>
 
 <!---
 rexoctavian/rexoctavian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
